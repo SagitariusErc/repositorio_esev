@@ -1,0 +1,74 @@
+@CHARSET "ISO-8859-1";
+
+.form-style {
+	background-color: white;
+	width: 583px;
+	margin-left: 3px;
+	border-radius: 10px;
+	max-height: 2000px;
+	overflow: auto;
+	margin-top: -19px;
+}
+
+.Aform-style {
+	background-color: white;
+	width: 583px;
+	margin-left: 3px;
+	border-radius: 10px;
+	max-height: 1734px;
+}
+
+tr {
+	height: 40px
+}
+
+.row-form {
+	margin-left: 1px;
+	height: 40px;
+}
+
+.label-form {
+	display: inline-block;
+	text-align: right;
+	width: 125px;
+	font-size: 12px;
+	color: #6B6B6B;
+	font-weight: bold;
+}
+
+.hide {
+	display: none;
+}
+
+.show {
+	display: ;
+}
+
+.important {
+	font-size: 19px;
+	color: red;
+	margin-left: 10px;
+}
+
+.title-form {
+	margin-left: 25px;
+	font-weight: bold;
+	font-size: 19px;
+}
+
+.title-left {
+	font-size: 17px;
+	color: #008FFF;
+	font-weight: bold;
+}
+
+.text-main {
+	background-color: #999;
+	margin-left: 3px;
+	width: 556px;
+	margin-bottom: -10px;
+	border-top-left-radius: 9px;
+	padding: 13px;
+	color: white;
+	border-top-right-radius: 9px;
+}
