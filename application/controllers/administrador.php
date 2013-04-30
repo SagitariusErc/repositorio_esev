@@ -56,6 +56,8 @@ class Administrador extends CI_Controller {
     public function ver_Grupos() {        
         $this->load->view('administrador/pages/verGrupos', NULL);
     }
+
+    //echo 'menssage de master'
     
     
 }
